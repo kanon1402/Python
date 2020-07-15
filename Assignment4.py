@@ -27,12 +27,12 @@ z = data['LastMonthSales'].tolist()
 # print(y)
 # print(z)
 fig, ax = plt.subplots()
-fig, ax = plt.subplots()
+
 ax.plot(x, y, color='red', marker='o')
 ax.plot(x, z, color='blue', marker='o')
 ax.legend(labels=('This Month', 'Last Month'), loc='best')
 plt.xlabel("Branch Name", color='black', fontsize=14, fontweight='bold')
-plt.xticks(x, rotation='vertical')
+
 plt.ylabel("Sales", color='black', fontsize=14, fontweight='bold')
 plt.yticks(np.arange(0, 21, 5))
 plt.title('Line chart', fontweight='bold', color='#3e0a75',  fontsize=18)
@@ -45,5 +45,5 @@ for a, b in zip(x, z):
 
 print('complete')
 plt.tight_layout()
-plt.savefig('task.png')
+# plt.savefig('task.png')
 plt.show()

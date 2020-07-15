@@ -24,8 +24,7 @@ fig1, ax = plt.subplots()
 
 pack_all, label, percent_value = ax.pie(data, labels=data, colors=colors,
                                         autopct='%.1f%%',
-                                        textprops={
-                                            'color': "Black"}, startangle=90, pctdistance=.80)
+                                        textprops={'color': "Black"}, startangle=90, pctdistance=.80)
 
 plt.setp(percent_value, fontsize=14, color='blue', fontweight='bold')
 plt.setp(label, fontsize=14, fontweight='bold')
