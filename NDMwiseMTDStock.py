@@ -27,10 +27,7 @@ data = pd.read_sql_query(query, connection)
 
 x = data['LOGINNAME'].tolist()
 y = data['Stock'].tolist()
-# z = data['LastMonthSales'].tolist()
-# print(x)
-# print(y)
-# print(z)
+
 fig, ax = plt.subplots(figsize=(12, 4.8))
 ax.plot(x, y, label='Stock', color='red', marker='o')
 # ax.plot(x, z, color='blue', marker='o')
@@ -38,19 +35,14 @@ ax.plot(x, y, label='Stock', color='red', marker='o')
 plt.xlabel("NDM Name", color='black', fontsize=12, fontweight='bold')
 
 plt.ylabel("Stock", color='black', fontsize=12, fontweight='bold')
-plt.yticks(np.arange(0, max(y) + 70, 50))
+plt.yticks(np.arange(0, max(y) + 100, 50))
 plt.title('NDM wise MTD stock', fontweight='bold', color='black', fontsize=18)
-
-# ax.legend(labels='stock', loc='best')
 ax.legend(loc='best')
 
 for a, b in zip(x, y):
     plt.text(a, b, str(b) + 'K', ha='center', va='bottom', rotation=45)
 
-# for a, b in zip(x, z):
-#     plt.text(a, b, str(b) + 'K', ha='center', va='bottom')
-
 plt.tight_layout()
-plt.savefig('T4.png')
+# plt.savefig('T4.png')
 print('complete')
-# plt.show()
+plt.show()

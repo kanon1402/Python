@@ -26,54 +26,57 @@ x = data['RSMTR'].tolist()
 day1_sale = data['YesterdaySales'].tolist()
 day2_sale = data['BeforeTwodaysSales'].tolist()
 t = data['ReturnVal'].tolist()
+print(x)
+print(day1_sale)
+print(day2_sale)
+print(t)
 
-
-def number_decorator(number):
-    number = round(number, 1)
-    number = format(number, ',')
-    number = number + 'K'
-    return number
-
-
-def thousand_K_number_decorator(number):
-    number = int(number / 1000)
-    number = format(number, ',')
-    number = number + 'K'
-    return number
-
-
-bar_index = np.arange(len(day2_sale))
-
-fig, ax = plt.subplots(figsize=(12.6, 6))
-opacity = 0.9
-bar1 = plt.bar(bar_index, day1_sale,
-               alpha=opacity, color='y', label='Frank')
-
-
-def autolabel(bar1):
-    for bar in bar1:
-        height = int(bar.get_height())
-        ax.text(bar.get_x(), height,
-                number_decorator(height),
-                va='bottom',
-                fontsize=12, fontweight='bold')
-
-
-autolabel(bar1)
-ax.plot(x, t, color='red', marker='o')
-
-for a, b in zip(x, t):
-    plt.text(a, b, str(b) + 'K', ha='center', va='bottom')
-
-plt.ylabel('Sales Amount and Return')
-plt.xlabel('RSMTR Name')
-plt.title('Sales Evaluation - Developed by: Kanon')
-plt.xticks(bar_index, x)
-
-plt.legend(labels=('30 Days Return', 'Yesterday Sales'), loc='upper center', bbox_to_anchor=(0.5, -0.1), fancybox=True,
-           shadow=True, ncol=5)
-
-plt.tight_layout()
-plt.savefig('Assignment5.png')
-print('Complete')
-plt.show()
+# def number_decorator(number):
+#     number = round(number, 1)
+#     number = format(number, ',')
+#     number = number + 'K'
+#     return number
+#
+#
+# def thousand_K_number_decorator(number):
+#     number = int(number / 1000)
+#     number = format(number, ',')
+#     number = number + 'K'
+#     return number
+#
+#
+# bar_index = np.arange(len(day2_sale))
+#
+# fig, ax = plt.subplots(figsize=(12.6, 6))
+# opacity = 0.9
+# bar1 = plt.bar(bar_index, day1_sale,
+#                alpha=opacity, color='y', label='Frank')
+#
+#
+# def autolabel(bar1):
+#     for bar in bar1:
+#         height = int(bar.get_height())
+#         ax.text(bar.get_x(), height,
+#                 number_decorator(height),
+#                 va='bottom',
+#                 fontsize=12, fontweight='bold')
+#
+#
+# autolabel(bar1)
+# ax.plot(x, t, color='red', marker='o')
+#
+# for a, b in zip(x, t):
+#     plt.text(a, b, str(b) + 'K', ha='center', va='bottom')
+#
+# plt.ylabel('Sales Amount and Return')
+# plt.xlabel('RSMTR Name')
+# plt.title('Sales Evaluation - Developed by: Kanon')
+# plt.xticks(bar_index, x)
+#
+# plt.legend(labels=('30 Days Return', 'Yesterday Sales'), loc='upper center', bbox_to_anchor=(0.5, -0.1), fancybox=True,
+#            shadow=True, ncol=5)
+#
+# plt.tight_layout()
+# plt.savefig('Assignment5.png')
+# print('Complete')
+# plt.show()

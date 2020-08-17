@@ -6,13 +6,17 @@ from email.mime.text import MIMEText
 # ------------ Group email ----------------------------------------
 msgRoot = MIMEMultipart('related')
 me = 'erp-bi.service@transcombd.com'
-to = ['ekbal.kanon@transcombd.com', 'rejaul.islam@transcombd.com']
-cc = ['', '']
-bcc = ['', '']
+to = ['rejaul.islam@transcombd.com', '']
+cc = ['biswas@transcombd.com', 'yakub@transcombd.com']
+bcc = ['ekbal.kanon@transcombd.com', '']
+# to = ['ekbal.kanon@transcombd.com', '']
+# cc = ['', '']
+# bcc = ['', '']
+
 
 recipient = to + cc + bcc
 
-subject = "Final Project"
+subject = "Submit My Final project related to AHD-Stock"
 
 email_server_host = 'mail.transcombd.com'
 port = 25
@@ -31,34 +35,23 @@ msgRoot.attach(msg)
 # msgAlternative.attach(msgText)
 
 msgText = MIMEText("""
-                       <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
+<b>Dear Royel,</b> <br>
+<p>After my training session my assigned task(AHD-Stock related) for final project has been completed.</p>
+                       
 <img src="cid:img1">
 <img src="cid:img2">
 <img src="cid:img3">
 <img src="cid:img4">
 <img src="cid:img5">
 <img src="cid:img6">
+
+<b>Thanks, </b> <br>
+Md. Alhama Ekbal Kanon <br>
                     """, 'html')
 
 msg.attach(msgText)
 
-# --------- Set Credit image in mail   -----------------------
+# --------- Set Credit image in mail -----------------------
 img = open('D:/Python/New training/Day2/day_2/T1.png', 'rb')
 img1 = MIMEImage(img.read())
 img.close()
