@@ -48,7 +48,7 @@ def thousand_K_number_decorator(number):
 
 bar_index = np.arange(len(day1_sale))
 
-fig, ax = plt.subplots(figsize=(12, 4.8))
+fig, ax = plt.subplots(figsize=(6.4, 4.8))
 
 opacity = 1
 
@@ -73,6 +73,6 @@ plt.title('Yesterday Invoice Count RSM Wise', fontsize=18, fontweight='bold')
 plt.xticks(bar_index, x)
 plt.yticks(np.arange(0, max(day1_sale) + 25, 25))
 plt.tight_layout()
-# plt.savefig('T2.png')
+plt.savefig('Yst_INV_RSMwise.png')
 print('Complete')
-plt.show()
+# plt.show()

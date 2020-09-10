@@ -6,17 +6,17 @@ from email.mime.text import MIMEText
 # ------------ Group email ----------------------------------------
 msgRoot = MIMEMultipart('related')
 me = 'erp-bi.service@transcombd.com'
-to = ['rejaul.islam@transcombd.com', '']
-cc = ['biswas@transcombd.com', 'yakub@transcombd.com']
-bcc = ['ekbal.kanon@transcombd.com', '']
-# to = ['ekbal.kanon@transcombd.com', '']
-# cc = ['', '']
-# bcc = ['', '']
+# to = ['rejaul.islam@transcombd.com', '']
+# cc = ['biswas@transcombd.com', 'yakub@transcombd.com']
+# bcc = ['ekbal.kanon@transcombd.com', '']
+to = ['roseline@transcombd.com', '']
+cc = ['ekbal.kanon@transcombd.com', '']
+bcc = ['', '']
 
 
 recipient = to + cc + bcc
 
-subject = "Submit My Final project related to AHD-Stock"
+subject = "Submit My project related to AHD-Chemist Analysis"
 
 email_server_host = 'mail.transcombd.com'
 port = 25
@@ -35,15 +35,14 @@ msgRoot.attach(msg)
 # msgAlternative.attach(msgText)
 
 msgText = MIMEText("""
-<b>Dear Royel,</b> <br>
-<p>After my training session my assigned task(AHD-Stock related) for final project has been completed.</p>
+<b>Dear Apu,</b> <br>
+<p>My task(AHD-Chemist Analysis) for email automation project by python has been completed.</p>
                        
 <img src="cid:img1">
 <img src="cid:img2">
 <img src="cid:img3">
 <img src="cid:img4">
-<img src="cid:img5">
-<img src="cid:img6">
+
 
 <b>Thanks, </b> <br>
 Md. Alhama Ekbal Kanon <br>
@@ -52,41 +51,41 @@ Md. Alhama Ekbal Kanon <br>
 msg.attach(msgText)
 
 # --------- Set Credit image in mail -----------------------
-img = open('D:/Python/New training/Day2/day_2/T1.png', 'rb')
+img = open('D:/Python/New training/Day2/day_2/TT&CC.png', 'rb')
 img1 = MIMEImage(img.read())
 img.close()
 img1.add_header('Content-ID', '<img1>')
 msgRoot.attach(img1)
 
-img = open('D:/Python/New training/Day2/day_2/T2.png', 'rb')
+img = open('D:/Python/New training/Day2/day_2/CC&INV.png', 'rb')
 img2 = MIMEImage(img.read())
 img.close()
 img2.add_header('Content-ID', '<img2>')
 msgRoot.attach(img2)
 
-img = open('D:/Python/New training/Day2/day_2/T3(AminAtik).png', 'rb')
+img = open('D:/Python/New training/Day2/day_2/RTN&White.png', 'rb')
 img3 = MIMEImage(img.read())
 img.close()
 img3.add_header('Content-ID', '<img3>')
 msgRoot.attach(img3)
 
-img = open('D:/Python/New training/Day2/day_2/T3(AnwarhossainKamrulahsan).png', 'rb')
+img = open('D:/Python/New training/Day2/day_2/rsm_mtd_sales.png', 'rb')
 img4 = MIMEImage(img.read())
 img.close()
 img4.add_header('Content-ID', '<img4>')
 msgRoot.attach(img4)
-
-img = open('D:/Python/New training/Day2/day_2/T3(HafizWhite).png', 'rb')
-img5 = MIMEImage(img.read())
-img.close()
-img5.add_header('Content-ID', '<img5>')
-msgRoot.attach(img5)
-
-img = open('D:/Python/New training/Day2/day_2/T4.png', 'rb')
-img6 = MIMEImage(img.read())
-img.close()
-img6.add_header('Content-ID', '<img6>')
-msgRoot.attach(img6)
+#
+# img = open('D:/Python/New training/Day2/day_2/T3(HafizWhite).png', 'rb')
+# img5 = MIMEImage(img.read())
+# img.close()
+# img5.add_header('Content-ID', '<img5>')
+# msgRoot.attach(img5)
+#
+# img = open('D:/Python/New training/Day2/day_2/T4.png', 'rb')
+# img6 = MIMEImage(img.read())
+# img.close()
+# img6.add_header('Content-ID', '<img6>')
+# msgRoot.attach(img6)
 
 
 

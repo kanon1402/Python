@@ -42,8 +42,8 @@ data = x['TotalCust'].tolist()
 # data = [A, B]
 total = data[0] + data[1] + data[2] + data[3] + data[4] + data[5] + data[6] + data[7] + data[8]
 total = 'Total \n' + str(convert(total))
-print(data)
-print(total)
+# print(data)
+# print(total)
 
 colors = ['#f9ff00', '#ff8600', '#5d87a3', '#cadb2a', '#c085e9', '#228b22', '#addcca'
     , '#33ffff', '#d0acff']
@@ -62,7 +62,7 @@ legend_element = [Patch(facecolor='#f9ff00', label='Akhter'),
 # B = convert(data[1])
 # Data_label = [A, B]
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6.4, 4.8))
 pack_all, label, percent_value = ax.pie(data, labels=data, colors=colors,
                                         autopct='%.1f%%',
                                         textprops={
@@ -80,4 +80,5 @@ ax.axis('equal')
 plt.legend(handles=legend_element, loc='best', fontsize=11, bbox_to_anchor=[0.9, 1.10])
 plt.tight_layout()
 plt.savefig('TotalChemistRsmWise.png')
-# plt.show()
+plt.show()
+print('Complete')

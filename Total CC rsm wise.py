@@ -67,7 +67,7 @@ legend_element = [Patch(facecolor='#f9ff00', label='Akhter'),
 # B = convert(data[1])
 # Data_label = [A, B]
 
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(6.4, 4.8))
 pack_all, label, percent_value = ax.pie(data, labels=data, colors=colors,
                                         autopct='%.1f%%',
                                         textprops={
@@ -84,5 +84,5 @@ plt.title('RSM Wise Covered Customer', fontsize=18, fontweight='bold', color='#3
 ax.axis('equal')
 plt.legend(handles=legend_element, loc='best', fontsize=11, bbox_to_anchor=[0.9, 1.10])
 plt.tight_layout()
-# plt.savefig('TotalChemistRsmWise.png')
+plt.savefig('TotalCoveredChemistRsmWise.png')
 plt.show()

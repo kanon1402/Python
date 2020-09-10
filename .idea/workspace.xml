@@ -2,30 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dacf20f-48b9-4e91-8c51-d72352c2580f" name="Default Changelist" comment="fggf">
-      <change afterPath="$PROJECT_DIR$/Sagir_BarChart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Total CC rsm wise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Total Chemist RSM wise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YstCocCustomerRSMwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YstInvCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YstRetCount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YstSalesRSMwise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class6(PieChart).py" beforeDir="false" afterPath="$PROJECT_DIR$/Class6(PieChart).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FinalProjectImageJoin.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProjectImageJoin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FinalProjectSendMail.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProjectSendMail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NDMwiseMTDStock.py" beforeDir="false" afterPath="$PROJECT_DIR$/NDMwiseMTDStock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T1.png" beforeDir="false" afterPath="$PROJECT_DIR$/T1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T2.png" beforeDir="false" afterPath="$PROJECT_DIR$/T2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T3(Amin).png" beforeDir="false" afterPath="$PROJECT_DIR$/T3(Amin).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T3(AminAtik).png" beforeDir="false" afterPath="$PROJECT_DIR$/T3(AminAtik).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T3(Anwarhossain).png" beforeDir="false" afterPath="$PROJECT_DIR$/T3(Anwarhossain).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T3(AnwarhossainKamrulahsan).png" beforeDir="false" afterPath="$PROJECT_DIR$/T3(AnwarhossainKamrulahsan).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T3(Atik).png" beforeDir="false" afterPath="$PROJECT_DIR$/T3(Atik).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T3(Hafiz).png" beforeDir="false" afterPath="$PROJECT_DIR$/T3(Hafiz).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T3(HafizWhite).png" beforeDir="false" afterPath="$PROJECT_DIR$/T3(HafizWhite).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T3(Kamrulahsan).png" beforeDir="false" afterPath="$PROJECT_DIR$/T3(Kamrulahsan).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T4.png" beforeDir="false" afterPath="$PROJECT_DIR$/T4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Total CC rsm wise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Total CC rsm wise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Total Chemist RSM wise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Total Chemist RSM wise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TotalChemistRsmWise.png" beforeDir="false" afterPath="$PROJECT_DIR$/TotalChemistRsmWise.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YstCocCustomerRSMwise.py" beforeDir="false" afterPath="$PROJECT_DIR$/YstCocCustomerRSMwise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YstInvCount.py" beforeDir="false" afterPath="$PROJECT_DIR$/YstInvCount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YstRetCount.py" beforeDir="false" afterPath="$PROJECT_DIR$/YstRetCount.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +49,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.YstRetCount">
-    <configuration name="BranchWiseClosingStock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.FinalProjectSendMail">
+    <configuration name="FinalProjectImageJoin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="day_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +63,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BranchWiseClosingStock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FinalProjectImageJoin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NDMwiseMTDStock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FinalProjectSendMail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="day_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,29 +85,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NDMwiseMTDStock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="YstCocCustomerRSMwise" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="day_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YstCocCustomerRSMwise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FinalProjectSendMail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,13 +138,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="YstSalesRSMwise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="day_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YstSalesRSMwise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FinalProjectSendMail" />
+        <item itemvalue="Python.YstSalesRSMwise" />
+        <item itemvalue="Python.FinalProjectImageJoin" />
         <item itemvalue="Python.YstRetCount" />
         <item itemvalue="Python.YstInvCount" />
-        <item itemvalue="Python.YstCocCustomerRSMwise" />
-        <item itemvalue="Python.BranchWiseClosingStock" />
-        <item itemvalue="Python.NDMwiseMTDStock" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +192,13 @@
       <workItem from="1596867128410" duration="1154000" />
       <workItem from="1597033436598" duration="7983000" />
       <workItem from="1597212916667" duration="4812000" />
-      <workItem from="1597638297458" duration="3737000" />
+      <workItem from="1597638297458" duration="6063000" />
+      <workItem from="1598243116273" duration="2877000" />
+      <workItem from="1598502267225" duration="8257000" />
+      <workItem from="1598862684160" duration="2755000" />
+      <workItem from="1599019332137" duration="6811000" />
+      <workItem from="1599105310224" duration="186000" />
+      <workItem from="1599106238586" duration="1083000" />
     </task>
     <task id="LOCAL-00001" summary="fggf">
       <created>1594277536848</created>
@@ -238,13 +231,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="fggf" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/day_2$Assignment4.coverage" NAME="Assignment4 Coverage Results" MODIFIED="1594721091735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$Assignment4.coverage" NAME="Assignment4 Coverage Results" MODIFIED="1598503325472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$NDMAnwarhossain.coverage" NAME="NDMAnwarhossain Coverage Results" MODIFIED="1594882479986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$NDMKamrulhasan.coverage" NAME="NDMKamrulhasan Coverage Results" MODIFIED="1594882507669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$NDMHafiz.coverage" NAME="NDMHafiz Coverage Results" MODIFIED="1594882494000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$FunctionCall.coverage" NAME="FunctionCall Coverage Results" MODIFIED="1593249815662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$NDMwiseClosingStock_Atik_.coverage" NAME="NDMwiseClosingStock(Atik) Coverage Results" MODIFIED="1594882557439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day_2$FinalProjectSendMail.coverage" NAME="FinalProjectSendMail Coverage Results" MODIFIED="1594887474073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$YstSalesRSMwise.coverage" NAME="YstSalesRSMwise Coverage Results" MODIFIED="1599025885606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$FinalProjectSendMail.coverage" NAME="FinalProjectSendMail Coverage Results" MODIFIED="1599109123785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Class9.coverage" NAME="Class9 Coverage Results" MODIFIED="1594287548785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$NDMAmin.coverage" NAME="NDMAmin Coverage Results" MODIFIED="1594882457261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$BranchWiseClosingStock.coverage" NAME="BranchWiseClosingStock Coverage Results" MODIFIED="1597639525747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -258,29 +252,29 @@
     <SUITE FILE_PATH="coverage/day_2$Assignment3_call.coverage" NAME="Assignment3_call Coverage Results" MODIFIED="1593332457169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Assignment8.coverage" NAME="Assignment8 Coverage Results" MODIFIED="1594287204589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Assignment5.coverage" NAME="Assignment5 Coverage Results" MODIFIED="1594892333610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day_2$YstCocCustomerRSMwise.coverage" NAME="YstCocCustomerRSMwise Coverage Results" MODIFIED="1597639678719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day_2$FinalProjectImageJoin.coverage" NAME="FinalProjectImageJoin Coverage Results" MODIFIED="1594887231948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day_2$Total_CC_rsm_wise.coverage" NAME="Total CC rsm wise Coverage Results" MODIFIED="1597221223489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$YstCocCustomerRSMwise.coverage" NAME="YstCocCustomerRSMwise Coverage Results" MODIFIED="1599023152435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$Total_CC_rsm_wise.coverage" NAME="Total CC rsm wise Coverage Results" MODIFIED="1599022506650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$FinalProjectImageJoin.coverage" NAME="FinalProjectImageJoin Coverage Results" MODIFIED="1599024639566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Class9_EmailSend_.coverage" NAME="Class9(EmailSend) Coverage Results" MODIFIED="1594289633163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Class10_Work_with_excel_.coverage" NAME="Class10(Work_with_excel) Coverage Results" MODIFIED="1594630335910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day_2$YstInvCount.coverage" NAME="YstInvCount Coverage Results" MODIFIED="1597640520771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$YstInvCount.coverage" NAME="YstInvCount Coverage Results" MODIFIED="1599024266542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Class8_ImageJoin_.coverage" NAME="Class8(ImageJoin) Coverage Results" MODIFIED="1594743966620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$ImageJoin.coverage" NAME="ImageJoin Coverage Results" MODIFIED="1594100420291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Sagir_BarChart.coverage" NAME="Sagir_BarChart Coverage Results" MODIFIED="1594902073662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Class6_PieChart_.coverage" NAME="Class6(PieChart) Coverage Results" MODIFIED="1597033513648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day_2$Total_Chemist_RSM_wise.coverage" NAME="Total Chemist RSM wise Coverage Results" MODIFIED="1597221057587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$Total_Chemist_RSM_wise.coverage" NAME="Total Chemist RSM wise Coverage Results" MODIFIED="1599021994703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$day3Class.coverage" NAME="day3Class Coverage Results" MODIFIED="1593074472809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Assignment6.coverage" NAME="Assignment6 Coverage Results" MODIFIED="1593930222102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day_2$YstRetCount.coverage" NAME="YstRetCount Coverage Results" MODIFIED="1597641474520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$YstRetCount.coverage" NAME="YstRetCount Coverage Results" MODIFIED="1599024630591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Class4.coverage" NAME="Class4 Coverage Results" MODIFIED="1593336630061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Class7.coverage" NAME="Class7 Coverage Results" MODIFIED="1593927968981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$mytest.coverage" NAME="mytest Coverage Results" MODIFIED="1594744265402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Class7_Donut_Chart_.coverage" NAME="Class7(Donut_Chart) Coverage Results" MODIFIED="1597033536343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$Problem_2.coverage" NAME="Problem_2 Coverage Results" MODIFIED="1594898128565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/day_2$Function.coverage" NAME="Function Coverage Results" MODIFIED="1593249163866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day_2$class5.coverage" NAME="class5 Coverage Results" MODIFIED="1594891907473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$class5.coverage" NAME="class5 Coverage Results" MODIFIED="1598243379159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$BranchWiseStockCurrentDate.coverage" NAME="BranchWiseStockCurrentDate Coverage Results" MODIFIED="1594882423704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day_2$Class4_linechart.coverage" NAME="Class4_linechart Coverage Results" MODIFIED="1593489111369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day_2$Class4_linechart.coverage" NAME="Class4_linechart Coverage Results" MODIFIED="1598243358094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day_2$equation.coverage" NAME="equation Coverage Results" MODIFIED="1593156198514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
